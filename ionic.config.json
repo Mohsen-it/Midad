@@ -1,0 +1,7 @@
+{
+  "name": "Midad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
